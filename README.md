@@ -1,2 +1,2 @@
 # Scratch_Programs
-## A sample Scratch programs to share.
+## A sample Scratch program to share.
